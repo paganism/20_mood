@@ -1,0 +1,26 @@
+body {
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    background-image: url(../img/sky.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+
+.header {
+    width: 1280px;
+    min-height: 720px;
+    margin:10px auto 5px;
+}
+
+#phrases {
+    font-size: 40px;
+    font-weight: 700px;
+    padding-top: 250px;
+}
+
+#signature {
+    font-size: 30px;
+    font-weight: 700px;
+    color: #47438a
+
+ }

@@ -1,6 +1,10 @@
 # Site for the Mood
 
-[TODO. There will be project description]
+This module shows random prhares when opened.
+
+# Startind
+
+Open index.html in your favorite browser.
 
 # Project Goals
 
