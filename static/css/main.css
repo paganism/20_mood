@@ -12,13 +12,13 @@ body {
     margin:10px auto 5px;
 }
 
-#phrases {
+.phrases {
     font-size: 40px;
     font-weight: 700px;
     padding-top: 250px;
 }
 
-#signature {
+.signature {
     font-size: 30px;
     font-weight: 700px;
     color: #47438a

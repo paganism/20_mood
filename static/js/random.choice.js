@@ -32,8 +32,9 @@ var quotes = [
 
     ];
 
-var quotesQty = quotes.length;
-var randomElement = getRandomInt(0, quotesQty);
-document.getElementById("phrases").textContent = quotes[randomElement].phrase;
-document.getElementById("signature").textContent = quotes[randomElement].signature;
-
+function getRandomQuote(){
+  var quotesQty = quotes.length;
+  var randomElement = getRandomInt(0, quotesQty);
+  document.getElementById("js-phrases").textContent = quotes[randomElement].phrase;
+  document.getElementById("js-signature").textContent = quotes[randomElement].signature;
+}
